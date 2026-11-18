@@ -1,0 +1,10 @@
+{
+  "project": "StreetLens",
+  "title": "Pedestrian Safety Watch",
+  "sector": "Urban Planning",
+  "subject": "intersection",
+  "metric": "Hazard reports",
+  "unit": "reports",
+  "threshold": 3,
+  "sample": "Main and Pine"
+}
